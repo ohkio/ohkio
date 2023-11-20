@@ -1,4 +1,6 @@
-### Hi there 👋
+### Quick Bio
+
+Currently in grad school for Library Science, particularly interested in the software and technologies used to help maintain libraries and other information organizations. This is often referred to as "Systems Librarianship" or "Metadata Librarianship". Special interests in civic tech, public transportation, and revitalizing XML tooling.
 
 <!--
 **ohkio/ohkio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
