@@ -21,6 +21,13 @@ I don't have a scripting language of choice. I know how to use Python, but I don
 - Java
 - JavaScript
 
+### Text Editors of Choice
+
+- Emacs - for notes (org mode)
+- Kate - for code (RIP atom)
+
+Working on becoming more comfortable with emacs for everything, but all the keyboard shortcuts are still a little daunting.
+
 <!--
 **ohkio/ohkio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
