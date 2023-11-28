@@ -28,6 +28,12 @@ I don't have a scripting language of choice. I know how to use Python, but I don
 
 Working on becoming more comfortable with emacs for everything, but all the keyboard shortcuts are still a little daunting.
 
+### Topics I'm following
+
+Library related topics:
+- [XML](https://github.com/topics/xml)
+- [Data Visualization](https://github.com/topics/data-visualization)
+
 <!--
 **ohkio/ohkio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
